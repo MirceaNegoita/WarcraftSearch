@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Thrall",
+    "shortname":"Thrall",
+    "reknown":"Former Warchief of the Horde",
+    "bio":"Thrall (birthname Go'el), son of Durotan (born 2 years ADP), was the Warchief of the restored orcish Horde and ruler of the red land of Durotar in Kalimdor. Before the Cataclysm, he was Warchief of all the Horde, but temporarily gave leadership to Garrosh Hellscream[3] in order to lead the Earthen Ring's effort with Farseer Nobundo against the Twilight's Hammer cult and elemental imbalance afflicting Azeroth caused by the awakening of Deathwing.[4] After Garrosh's tyranny was overthrown, Thrall renounced his claim on the title of Warchief and instead gave the position to his close friend and ally, Vol'jin."
+  },
+  {
+    "name":"Varian Wrynn",
+    "shortname":"Varian_Wrynn",
+    "reknown":"King of the Alliance",
+    "bio":"Varian Wrynn, also called Lo'Gosh the Ghost Wolf, was the son of the late King Llane Wrynn, was the acting leader of the Alliance, and the former King of Stormwind. Under his leadership, the humans of Stormwind led the Alliance to victory against the Lich King in Northrend, and now seek to bolster their strategic holdings against their perennial enemy, the Horde With the world plunged into chaos by the great Cataclysm, he took up military leadership of the Alliance, and vowed to forge a new destiny for Azeroth. "
+  },
+  {
+    "name":"Vol'Jin",
+    "shortname":"Vol_Jin",
+    "reknown":"Echo Isles",
+    "bio":"The shadow hunter Vol'jin, son of Sen'jin, chieftain of the Darkspear tribe, and rightful ruler of the Echo Isles, is a staunch ally of former Warchief Thrall. After the Echo Isles were conquered by the traitorous sorcerer Zalazane, he resided in Orgrimmar at the side of the Warchief, later fighting alongside him during the Battle for the Undercity. After years of exile, Vol'jin led an attack against the Echo Isles to end Zalazane's evil rule and retake the lands that Thrall had promised them.."
+  },
+  {
+    "name":"Malfurion Stormrage",
+    "shortname":"Malfurion_Stormrage",
+    "reknown":"Arch Driud of the Cenarion Circle",
+    "bio":"Malfurion Stormrage was the first night elf druid, and initiated the mainstream use of druidism among the night elven people ten millennia ago under tutelage of the demigod Cenarius within Val'sharah. Through Malfurion's guidance, the kaldorei managed to successfully halt the Burning Legion's first invasion of Azeroth during the War of the Ancients. In its aftermath, he became the greatest of the world's archdruids. Malfurion Stormrage is the twin brother of Illidan Stormrage, as well as the loving and beloved husband of the high priestess of Elune, Tyrande Whisperwind. Together, the two have represented the highest leadership of the night elves ever since the fall of Queen Azshara and her Highborne caste."
+  },
+  {
+    "name":"Sylvanas Windrunner",
+    "shortname":"Sylvanas_Windrunner",
+    "reknown":"Banshee Queen of the Forsaken",
+    "bio":"During the time when the Lich King was losing grasp on his undead minions, Sylvanas gained her free will and plotted against him in Lordaeron with the help of the Nathrezim. After her assassination attempt failed, she turned her attention to claiming Lordaeron for herself. She bent the dreadlord, Varimathras, to her will and, with the help of the human remnants led by lord Garithos, killed Balnazzar and Detheroc. With the death of the dreadlords and Garithos, together with the disbanding of the human remnants, Sylvanas was able to claim Lordaeron and made her home under the former Capital City, naming it The Undercity. "
+  },
+  {
+    "name":"Tyrande Whisperwind",
+    "shortname":"Tyrande_Whisperwind",
+    "reknown":"High Priestess of Elune",
+    "bio":"Tyrande Whisperwind (pronounced Teer-An-Dah) is the most prominent night elf leader, as the chosen high priestess of the goddess Elune, the former general of the night elf sentinels, and the current head of the Sisterhood of Elune. Together with her lifelong mate, the Archdruid Malfurion Stormrage, she has represented the highest leadership of the night elves since the fall of Queen Azshara and the Highborne caste ten thousand years ago. In World of Warcraft, she is found inside the Temple of the Moon within the Kaldorei's capital city of Darnassus."
+  },
+  {
+    "name":"Baine Bloodhoof",
+    "shortname":"Baine_Bloodhoof",
+    "reknown":"High Chieftain of the Tauren",
+    "bio":"High Chieftain Baine Bloodhoof is the son of the late tauren leader, Cairne Bloodhoof whom he looked up to as a role model. While Baine has formidable skill on the battlefield, his true talents lie in the arena of diplomacy. He is a strong force for moderation, calm wisdom, and unity within the Horde, especially in their dealings with the Alliance."
+  },
+  {
+    "name":"Magni Bronzebeard",
+    "shortname":"Magni_Bronzebeard",
+    "reknown":"Former King of the Dwarves",
+    "bio":"Magni Bronzebeard was the king of the dwarven kingdom of Khaz Modan, Thane of Ironforge and head of the Bronzebeard clan. During the Second War he defended Ironforge from the orcs and joined the Alliance of Lordaeron. He was a founding member of the Explorers' League led by his brother Brann and forged the Ashbringer hoping it would avenge his brother Muradin, who was believed to have fallen before Frostmourne. Magni was turned to diamond during a ritual in the heart of Old Ironforge, sacrificing himself to save Khaz Modan from the Shattering. He was succeeded by the Council of Three Hammers. After years spent immobilized in Old Ironforge, Magni has returned as the Speaker, the ritual having attuned him to the Titan world-soul of Azeroth itself, and now works with the world's heroes to combat the return of the Burning Legion."
+  },
+  {
+    "name":"Varok Saurfang",
+    "shortname":"Varok_Saurfang",
+    "reknown":"High Overlord of the Orcs",
+    "bio":"High Overlord Varok Saurfang is a famed veteran of the First, Second, and Third Wars. He served as Orgrim Doomhammer's second-in-command during the Second War, and as Supreme Commander of the combined Might of Kalimdor, rallying the army against the qiraji of Ahn'Qiraj in Silithus.[6] He later led the Kor'kron against the Scourge in Northrend, and he assisted Thrall during the Siege of Orgrimmar."
+  }
+]
